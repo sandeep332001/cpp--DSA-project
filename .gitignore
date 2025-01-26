@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+
+# binary files
+sandy_graph
+sandy_tree
